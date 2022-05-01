@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HakkiDogan
 - 👀 I’m interested in software
-- 🌱 I’m currently learning java and python.
+- 🌱 I’m currently learning JAVA and Python.
 - 📫 How to reach me ibrahimhakki79@gmail.com
 
 <!---
